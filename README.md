@@ -4,4 +4,4 @@ Hello Guys Amaan This Side , So Basically I've Made a hashcracker python script 
 So You can Try This Script in your termux , linux etc 
 you just have to type python3 and filename
 and thats it 
-but make sure you have the dictionary of that hash which you are going to given
+but make sure you have the dictionary of that hash which you are going to give
